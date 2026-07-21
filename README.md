@@ -138,12 +138,29 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 <div align="center">
 
 <a href="https://linkedin.com/in/avinesh-s-449a2a364">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:avinesh1677@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/avineshofficial">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer" width="100%" alt="footer" />
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!;Let%27s+build+something+amazing+together!+🚀" alt="Footer Typing SVG" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=AVINESH%20S&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=85&descSize=16" width="100%" alt="Animated Footer" />
+
+</div>
