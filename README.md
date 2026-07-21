@@ -22,34 +22,35 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20Degree-MCA%20%40%20Kalasalingam%20University%20(2025–2027)-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Degree" />
+<img src="https://img.shields.io/badge/🎓%20MCA%20Student-Kalasalingam%20Academy%20of%20Research%20%26%20Education%20(2025--2027)-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/💻%20Role-Full--Stack%20Web%20%26%20Mobile%20Developer-6366f1?style=for-the-badge&labelColor=0f172a" alt="Role" />
+<img src="https://img.shields.io/badge/💻%20Role-Full--Stack%20Web%20%26%20Mobile%20Developer-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Role" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔧%20Experience-Full%20Stack%20Intern%20%40%20Phoenix%20Softech-10b981?style=for-the-badge&labelColor=0f172a" alt="Experience" />
+<img src="https://img.shields.io/badge/🔧%20Experience-Full%20Stack%20Dev%20Intern%20%40%20Phoenix%20Softech-f59e0b?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Experience" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🌐%20Work-Real%20Client%20%26%20Production%20Websites-f59e0b?style=for-the-badge&labelColor=0f172a" alt="Work" />
+<img src="https://img.shields.io/badge/🌐%20Projects-Real%20Client%20%26%20Production%20Websites-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🤖%20Interests-ML%20%7C%20IoT%20%7C%20WebSockets-ec4899?style=for-the-badge&labelColor=0f172a" alt="Interests" />
+<img src="https://img.shields.io/badge/🤖%20Interests-Machine%20Learning%20%7C%20IoT%20%7C%20WebSockets-8b5cf6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Interests" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍%20Location-Madurai%2C%20Tamil%20Nadu%2C%20India-14b8a6?style=for-the-badge&labelColor=0f172a" alt="Location" />
+<img src="https://img.shields.io/badge/📍%20Location-Madurai%2C%20Tamil%20Nadu%2C%20India-ec4899?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📫%20Email-avinesh1677%40gmail.com-ef4444?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:avinesh1677@gmail.com">
+<img src="https://img.shields.io/badge/📫%20Email-avinesh1677%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
-
 
 <br>
 
