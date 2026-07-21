@@ -22,17 +22,34 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 | Pursuing **MCA** at Kalasalingam Academy of Research and Education (2025–2027) |
-| 💻 | Full-stack web & mobile developer — **React.js**, **React Native**, **Node.js** |
-| 🔧 | Former Full Stack Development Intern @ **Phoenix Softech** |
-| 🌐 | Delivering real client projects, including production websites |
-| 🤖 | Interests: Machine Learning, IoT, Real-time systems (WebSockets) |
-| 📍 | Based in Madurai, Tamil Nadu, India |
-| 📫 | Reach me at **avinesh1677@gmail.com** |
+<img src="https://img.shields.io/badge/🎓%20Degree-MCA%20%40%20Kalasalingam%20University%20(2025–2027)-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Degree" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💻%20Role-Full--Stack%20Web%20%26%20Mobile%20Developer-6366f1?style=for-the-badge&labelColor=0f172a" alt="Role" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔧%20Experience-Full%20Stack%20Intern%20%40%20Phoenix%20Softech-10b981?style=for-the-badge&labelColor=0f172a" alt="Experience" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🌐%20Work-Real%20Client%20%26%20Production%20Websites-f59e0b?style=for-the-badge&labelColor=0f172a" alt="Work" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🤖%20Interests-ML%20%7C%20IoT%20%7C%20WebSockets-ec4899?style=for-the-badge&labelColor=0f172a" alt="Interests" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📍%20Location-Madurai%2C%20Tamil%20Nadu%2C%20India-14b8a6?style=for-the-badge&labelColor=0f172a" alt="Location" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📫%20Email-avinesh1677%40gmail.com-ef4444?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" alt="Email" />
 
 </div>
+
 
 <br>
 
