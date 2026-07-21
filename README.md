@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avinesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=55&descSize=17" width="100%" alt="header" />
+<!-- ═══════════════════ ANIMATED HERO SECTION ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%7C+React+Native+%7C+Node.js;Building+Real-World+Client+%26+Personal+Projects;MCA+Student+%40+Kalasalingam" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AVINESH%20S&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=22&descColor=a0d8ef" width="100%" alt="Hero Header" />
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I%27m+Avinesh+S;Full-Stack+Web+Developer;React.js+%7C+React+Native+%7C+Node.js;Building+Real-World+Client+Projects;MCA+Student+%40+Kalasalingam+University" alt="Typing SVG" />
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=avineshofficial&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+&nbsp;
 <img src="https://img.shields.io/github/followers/avineshofficial?label=Followers&style=for-the-badge&color=6366F1" alt="Followers" />
 
 </div>
@@ -111,7 +116,7 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avineshofficial&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
+<img src="https://github-trophies.vercel.app/?username=avineshofficial&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
 </div>
 
 <br>
@@ -157,10 +162,10 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!;Let%27s+build+something+amazing+together!+🚀" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+with+me!;Let%27s+build+something+amazing+together!" alt="Footer Typing" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=AVINESH%20S&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=85&descSize=16" width="100%" alt="Animated Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=220&section=footer&text=AVINESH%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=82&descSize=17&descColor=a0d8ef" width="100%" alt="Animated Footer" />
 
 </div>
