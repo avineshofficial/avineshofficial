@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=220&section=header&text=Avinesh%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Avinesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20React.js%20%26%20Node.js&descAlignY=55&descSize=17" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%7C+React+Native+%7C+Node.js;Building+Real-World+Client+%26+Personal+Projects;MCA+Student+%40+Kalasalingam" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React.js+%7C+React+Native+%7C+Node.js;Building+Real-World+Client+%26+Personal+Projects;MCA+Student+%40+Kalasalingam" alt="Typing SVG" />
 
 <br>
 
@@ -94,8 +94,16 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 <img src="https://github-readme-stats.vercel.app/api?username=avineshofficial&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Avinesh's GitHub stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avineshofficial&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avineshofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://streak-stats.demolab.com?user=avineshofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avineshofficial&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 </div>
 
 <br>
@@ -103,7 +111,7 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avineshofficial&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=avineshofficial&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
 </div>
 
 <br>
@@ -113,8 +121,6 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 <div align="center">
 <img src="https://raw.githubusercontent.com/avineshofficial/avineshofficial/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
-
-> ⚙️ This animated snake eats your contribution graph — it needs a one-time GitHub Actions setup (steps below).
 
 <br>
 
@@ -140,4 +146,4 @@ IoT framework using ultrasonic sensors for real-time distance measurement and ob
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer" width="100%" alt="footer" />
